@@ -1,0 +1,33 @@
+/* PLACE YOU CUSTOM STYLES IN THIS FILE */
+
+.nk-footer-logos {width: 100%;margin: 0 auto;text-align: center;}
+.nk-sign-form-container.register_ui{background: rgba(151,151,151,1);padding: 20px;width: 100%;display: inline-block;}
+.charc_pop.nk-blog-list .nk-post-thumb{margin-right: -11%;}
+.nk-navbar .nk-nav-table > .new_marks_logo.nk-nav-logo{width:40%;}
+.nk-navbar .nk-nav-table > .new_marks_logo.nk-nav-logo img{width:100%;}
+.copyright-text {padding-bottom: 20px;}
+.pswp__caption{height: 250px;}
+.nk-sign-form-container.register_ui{cursor:default;}
+.game_art_slider .bx-viewport{height:100vh;}
+.game_art_slider .bx-wrapper img{height: 100vh;width:100%;}
+.game_art_slider .bx-wrapper .bx-pager{bottom:30px;}
+.nk-sign-form.trans_layer{background-color: rgba(0,0,0,0.8);}
+
+@media (max-width: 420px){
+
+.nk-navbar.nk-navbar-top .nk-nav-logo {display: block !important;}
+.game_art_slider .bx-wrapper .bx-prev {left: 30px;}
+.game_art_slider .bx-wrapper .bx-next {right: 30px;}
+
+}
+.nk-sign-form .nk-sign-form-toggle .active{
+	cursor: default;
+}
+
+
+
+
+
+
+
+
