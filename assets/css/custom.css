@@ -13,6 +13,7 @@
 .game_art_slider .bx-wrapper .bx-pager{bottom:30px;}
 .nk-sign-form.trans_layer{background-color: rgba(0,0,0,0.8);}
 
+
 @media (max-width: 420px){
 
 .nk-navbar.nk-navbar-top .nk-nav-logo {display: block !important;}
@@ -20,11 +21,9 @@
 .game_art_slider .bx-wrapper .bx-next {right: 30px;}
 
 }
-.nk-sign-form .nk-sign-form-toggle .active{
-	cursor: default;
-}
 
-
+.nk-sign-form .nk-sign-form-toggle .active{cursor: default;}
+.pswp__zoom-wrap:last-child img.pswp__img{object-fit: scale-down;}
 
 
 
