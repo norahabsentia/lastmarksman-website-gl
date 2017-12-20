@@ -13065,3 +13065,18 @@ span.active > .nk-icon-toggle, .nk-icon-toggle.active {
     margin-right: 15px;
     margin-bottom: 10px;
 }
+
+.nk-upper {
+    z-index: 1;
+}
+
+.nk-gun-title > a {
+    text-decoration: none;
+    color: inherit;
+    transition: .3s opacity;
+}
+
+.nk-gun-title > a:hover, .nk-gun-title > a.hover {
+    opacity: 1.0;
+}
+
