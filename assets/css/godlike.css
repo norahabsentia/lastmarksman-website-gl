@@ -13079,4 +13079,6 @@ span.active > .nk-icon-toggle, .nk-icon-toggle.active {
 .nk-gun-title > a:hover, .nk-gun-title > a.hover {
     opacity: 1.0;
 }
-
+.nk-charater-image {
+    padding-bottom: 5px
+}
